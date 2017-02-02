@@ -1,4 +1,5 @@
 ;sum of bignum  
+; by ShahroOz
 ; HELP:
 ;    The numbers must be in little endian
 ;    mode. N must be the length of the two
